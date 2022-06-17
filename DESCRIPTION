@@ -1,0 +1,16 @@
+Package: wbc.counter
+Title: Wild Boar Carcasses counter app
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Ileana", "Baldi", , "ileana.baldi@ubep.unipd.it", role = c("cre", "aut"),
+           comment = c(ORCID = "0000-0002-8578-9164")),
+    person("Federica", "Loi", , "federica.loi@izs-sardegna.it", role = "aut",
+           comment = c(ORCID = "Y0000-0003-3045-3150")),
+    person("Corrado", "Lanera", , "corrado.lanera@ubep.unipd.it", role = "ctb",
+           comment = c(ORCID = "0000-0002-0520-7428"))
+  )
+Description: Shiny app developed by UBEP for methods Carcasses.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
