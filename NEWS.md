@@ -1,3 +1,5 @@
+# wbc.counter 0.2.0
+
 
 * Update the application to consider two strategies:WB density and WB
     hunted.
