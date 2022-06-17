@@ -1,3 +1,5 @@
+# wbc.counter 0.1.0
+
 # wbc.counter 0.0.0.9000
 
 * Setup minimal development tools
