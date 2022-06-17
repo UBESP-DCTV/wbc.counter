@@ -7,6 +7,8 @@
 
 [![Lifecycle:
 stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+[![Web
+app](https://img.shields.io/badge/WEB-App-red.svg)](https://r-ubesp.dctv.unipd.it/shiny/WBC-counter/)
 <!-- badges: end -->
 
 The goal of `{wbc.counter}` is to provide the implementation of an
