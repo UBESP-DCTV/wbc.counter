@@ -4,3 +4,5 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^app$
+^README\.Rmd$
+^CODE_OF_CONDUCT\.md$

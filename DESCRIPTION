@@ -9,8 +9,19 @@ Authors@R: c(
     person("Corrado", "Lanera", , "corrado.lanera@ubep.unipd.it", role = "ctb",
            comment = c(ORCID = "0000-0002-0520-7428"))
   )
-Description: Shiny app developed by UBEP for methods Carcasses.
+Description: Application of EFSA Exit Strategy on how to provide
+    cumulative evidence of the absence of African swine fever virus
+    circulation in wild boar populations using standard surveillance
+    measures.
 License: GPL (>= 3)
+Imports: 
+    shiny,
+    shinydashboard,
+    shinyWidgets
+Suggests: 
+    devtools,
+    renv,
+    usethis
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.0

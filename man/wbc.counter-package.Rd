@@ -6,7 +6,7 @@
 \alias{wbc.counter-package}
 \title{wbc.counter: Wild Boar Carcasses counter app}
 \description{
-Shiny app developed by UBEP for methods Carcasses.
+Application of EFSA Exit Strategy on how to provide cumulative evidence of the absence of African swine fever virus circulation in wild boar populations using standard surveillance measures.
 }
 \author{
 \strong{Maintainer}: Ileana Baldi \email{ileana.baldi@ubep.unipd.it} (\href{https://orcid.org/0000-0002-8578-9164}{ORCID})
