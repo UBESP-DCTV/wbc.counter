@@ -1,6 +1,6 @@
 Package: wbc.counter
 Title: Wild Boar Carcasses counter app
-Version: 0.2.0
+Version: 0.2.0.9000
 Authors@R: c(
     person("Ileana", "Baldi", , "ileana.baldi@ubep.unipd.it", role = c("cre", "aut"),
            comment = c(ORCID = "0000-0002-8578-9164")),
