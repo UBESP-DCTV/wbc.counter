@@ -24,7 +24,7 @@ You can install the development version of `{wbc.counter}` like so:
 # install.packages("remotes")
 # install.packages("renv")
 
-remotes::install_github("UBEP-DCTV/wbc.counter")
+remotes::install_github("UBESP-DCTV/wbc.counter")
 renv::restore()
 ```
 
